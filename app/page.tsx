@@ -17,9 +17,9 @@ export default function Home() {
             mustafa
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
               app/page.tsx
-            </code>
+            </code> 
             .
-          </li>
+          </li> 
           <li className="tracking-[-.01em]">
             Save and see your changes instantly. 
           </li>
